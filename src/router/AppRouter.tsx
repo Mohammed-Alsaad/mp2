@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import { SortProvider } from "../context/SortContext";
 import App from "../App";
 import ListView from "../pages/ListView/ListView";
 import GalleryView from "../pages/GalleryView/GalleryView";
