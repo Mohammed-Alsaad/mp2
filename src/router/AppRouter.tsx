@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter as BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import App from "../App";
 import ListView from "../pages/ListView/ListView";
 import GalleryView from "../pages/GalleryView/GalleryView";
